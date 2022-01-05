@@ -1,8 +1,8 @@
 # My Website Repository
 
 ## Teknologi yang digunakan:
-1. [Bootstrap v5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-2. Yang jelas, [HTML dan CSS](https://github.com/bellshade/HTML-CSS)
+1. Yang jelas, [HTML dan CSS](https://github.com/bellshade/HTML-CSS)
+2. [Bootstrap v5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 3. [Javascript](https://youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w)
 4. [Form to Google Sheets](https://github.com/jamiewilson/form-to-google-sheets)
 
