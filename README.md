@@ -5,10 +5,12 @@
 2. [Bootstrap v5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 3. [Javascript](https://youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w)
 4. [Form to Google Sheets](https://github.com/jamiewilson/form-to-google-sheets)
+5. [Animate on Scroll (AoS) library](https://github.com/michalsnik/aos)
 
 ## Referensi:
 1. [NGOBAR#27 - Membuat Website Portfolio dengan BOOTSTRAP 5](https://youtu.be/LkR-9Z1sle8)
 2. [NGOBAR#29 - Menyimpan Pesan dari Contact Form ke dalam GOOGLE SHEETS](https://youtu.be/2XosKncBoQ4)
+3. [NGOBAR#30 - Membuat Animasi pada Website (Menggunakan AOS dan GSAP)](https://youtu.be/t4TQGux6r7M)
 
 ## HERE WE GO!
 - [MY WEBSITE](https://galihpujiirianto.github.io)
