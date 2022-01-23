@@ -6,6 +6,7 @@
 3. [Javascript](https://youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w)
 4. [Form to Google Sheets](https://github.com/jamiewilson/form-to-google-sheets)
 5. [Animate on Scroll (AoS) library](https://github.com/michalsnik/aos)
+6. [GreenSock Animation Platform](https://greensock.com/gsap/)
 
 ## Referensi:
 1. [NGOBAR#27 - Membuat Website Portfolio dengan BOOTSTRAP 5](https://youtu.be/LkR-9Z1sle8)
