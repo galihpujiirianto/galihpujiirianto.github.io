@@ -1,18 +1,29 @@
-# My Website Repository
+# Hai, aku Galih!
 
-## Teknologi yang digunakan:
-1. Yang jelas, [HTML dan CSS](https://github.com/bellshade/HTML-CSS)
-2. [Bootstrap v5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-3. [Javascript](https://youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w)
-4. [Form to Google Sheets](https://github.com/jamiewilson/form-to-google-sheets)
-5. [Animate on Scroll (AoS) library](https://github.com/michalsnik/aos)
-6. [GreenSock Animation Platform](https://greensock.com/gsap/)
+<p>Manusia biasa. Sedang mempelajari bagaimana cara menghargai hidup.</p>
+<p>Hai, perkenalkan namaku Galih Puji Irianto. Biasa dipanggil Galih. Bertempat tinggal di Grobogan, Jawa Tengah. Laki-laki, berumur 14 tahun. Saat ini sedang bersekolah di Sekolah Menengah Pertama (SMP) Negeri 1 Gubug, di kelas VIII-I. Hobiku bersepeda, berjalan-jalan, dan sudah lumayan menyukai programming. Selain itu, hobiku dirumah adalah Cuci Piring. Terima kasih, senang mengenal kalian!<p>
+<p>Daily Updates: <a href="https://t.me/aboutshackchiw">Telegram/@aboutshackchiw</a></p>
 
-## Referensi:
-1. [NGOBAR#27 - Membuat Website Portfolio dengan BOOTSTRAP 5](https://youtu.be/LkR-9Z1sle8)
-2. [NGOBAR#29 - Menyimpan Pesan dari Contact Form ke dalam GOOGLE SHEETS](https://youtu.be/2XosKncBoQ4)
-3. [NGOBAR#30 - Membuat Animasi pada Website (Menggunakan AOS dan GSAP)](https://youtu.be/t4TQGux6r7M)
+<details>
+<summary>My Stats!</summary>
 
-## HERE WE GO!
-- [MY WEBSITE](https://galihpujiirianto.github.io)
-- [GOOGLE SHEETS LINK (private)](https://docs.google.com/spreadsheets/d/1I6lzh2pwhsKgbiUhiVzDZqiOOo0xfn_m6B1XM-xdWnY/edit?usp=drivesdk)
+<a href="https://github.com/galihpujiirianto/galihpujiirianto"><img height=125px src="https://github-readme-stats.vercel.app/api?username=galihpujiirianto&show_icons=true&theme=radical"></a>
+<a href="https://github.com/galihpujiirianto/galihpujiirianto"><img height=149px src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihpujiirianto&layout=compact"></a>
+
+</details>
+
+<h4>Sosial Media</h4>
+<a href="https://galihpujiirianto.github.io"><img alt="galihpujiirianto.github.io" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="https://t.me/shackchiw"><img alt="Telegram/shackchiw" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
+<a href="https://myanimelist.net/profile/shackchiw"><img alt="Myanimelist/shackchiw" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/myanimelist.svg"></a>
+
+
+<br>
+<br>
+<br>
+<details>
+<summary>Lagi galau</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&redirect=true)
+
+</details>
