@@ -14,5 +14,7 @@
 3. [NGOBAR#30 - Membuat Animasi pada Website (Menggunakan AOS dan GSAP)](https://youtu.be/t4TQGux6r7M)
 
 ## HERE WE GO!
-- [MY WEBSITE](https://galihpujiirianto.github.io)
-- [GOOGLE SHEETS LINK (private)](https://docs.google.com/spreadsheets/d/1I6lzh2pwhsKgbiUhiVzDZqiOOo0xfn_m6B1XM-xdWnY/edit?usp=drivesdk)
+- [MY WEBSITE (galihpujiirianto.vercel.app)](https://galihpujiirianto.vercel.app)
+- [MY WEBSITE (galihpujiirianto.github.io)](https://galihpujiirianto.github.io/galihpujiirianto)
+- [MY WEBSITE (galihpujiirianto.herokuapp.com)](https://galihpujiirianto.herokuapp.com)
+- [GOOGLE SHEETS LINK (Contact Me!)](https://docs.google.com/spreadsheets/d/1I6lzh2pwhsKgbiUhiVzDZqiOOo0xfn_m6B1XM-xdWnY/edit?usp=drivesdk)

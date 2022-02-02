@@ -7,23 +7,20 @@
 <details>
 <summary>My Stats!</summary>
 
-<a href="https://github.com/galihpujiirianto/galihpujiirianto"><img height=125px src="https://github-readme-stats.vercel.app/api?username=galihpujiirianto&show_icons=true&theme=radical"></a>
+<a href="https://github.com/galihpujiirianto/galihpujiirianto"><img height=125px src="https://github-readme-stats.vercel.app/api?username=galihpujiirianto&show_icons=true&theme=default"></a>
+
 <a href="https://github.com/galihpujiirianto/galihpujiirianto"><img height=149px src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihpujiirianto&layout=compact"></a>
 
 </details>
 
-<h4>Sosial Media</h4>
-<a href="https://galihpujiirianto.github.io"><img alt="galihpujiirianto.github.io" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
-<a href="https://t.me/shackchiw"><img alt="Telegram/shackchiw" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
-<a href="https://myanimelist.net/profile/shackchiw"><img alt="Myanimelist/shackchiw" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/myanimelist.svg"></a>
-
-
-<br>
-<br>
-<br>
 <details>
 <summary>Lagi galau</summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&redirect=true"><img height=83px src="https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"></a>
 
 </details>
+
+<h4>Sosial Media</h4>
+<a href="https://galihpujiirianto.vercel.app"><img alt="galihpujiirianto.vercel.app" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="https://t.me/shackchiw"><img alt="Telegram/shackchiw" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
+<a href="https://myanimelist.net/profile/shackchiw"><img alt="Myanimelist/shackchiw" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/myanimelist.svg"></a>
