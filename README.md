@@ -8,7 +8,6 @@
 <summary>My Stats!</summary>
 
 <a href="https://github.com/galihpujiirianto/galihpujiirianto"><img height=125px src="https://github-readme-stats.vercel.app/api?username=galihpujiirianto&show_icons=true&theme=default"></a>
-
 <a href="https://github.com/galihpujiirianto/galihpujiirianto"><img height=149px src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihpujiirianto&layout=compact"></a>
 
 </details>
