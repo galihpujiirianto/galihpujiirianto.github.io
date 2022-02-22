@@ -10,15 +10,28 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <!-------------------------->
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@1,300&family=Ubuntu&display=swap" rel="stylesheet">
+<!-------------------------->
     <!-- My CSS -->
     <style type="text/css" media="all">
+        .navbar {font-family: 'Poppins', sans-serif;}
         .jumbotron {
             margin-top: -3rem;
             padding-top: 7rem;
             background-color: #eaeaea;
+            font-family: 'Ubuntu', sans-serif;
         }
-        .about {overflow: hidden;}
-        .projects {background-color: #eaeaea;}
+        .about {
+            font-family: 'Montserrat', sans-serif;
+            overflow: hidden;
+        }
+        .projects {
+            background-color: #eaeaea;
+            font-family: 'Montserrat', sans-serif;
+        }
         .footer {margin-top: -2px;}
     </style>
     <title>My Portfolio | Galih Puji Irianto</title>
@@ -69,8 +82,7 @@
             </p>
         </div>
         <svg id="about" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-            <path fill="#ffffff" fill-opacity="1" 
-d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,128C672,107,768,117,864,149.3C960,181,1056,235,1152,229.3C1248,224,1344,160,1392,128L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+            <img src="img/wave/1.svg" />
         </svg>
     </div>
     <script type="text/javascript" charset="utf-8">
@@ -79,7 +91,7 @@ d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,128C672,107,768,11
             y: '-100%',
             ease: 'bounce'
         })
-        gsap.from('.jumbotron img', {
+        gsap.from('.jumbotron .img-thumbnail', {
             duration: 1,
             delay: 0.3,
             opacity: 0,
@@ -122,8 +134,7 @@ d="M0,128L48,149.3C96,171,192,213,288,208C384,203,480,149,576,128C672,107,768,11
             </div>
         </div>
         <svg id="projects" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-            <path fill="#eaeaea" fill-opacity="1" 
-d="M0,224L60,234.7C120,245,240,267,360,245.3C480,224,600,160,720,160C840,160,960,224,1080,261.3C1200,299,1320,309,1380,314.7L1440,320L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
+            <img src="img/wave/2.svg" />
         </svg>
     </section>
     <section class="projects">
@@ -159,8 +170,7 @@ d="M0,224L60,234.7C120,245,240,267,360,245.3C480,224,600,160,720,160C840,160,960
             </div>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-            <path fill="#6c757d" fill-opacity="1" 
-d="M0,64L60,64C120,64,240,64,360,101.3C480,139,600,213,720,256C840,299,960,309,1080,261.3C1200,213,1320,107,1380,53.3L1440,0L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
+            <img src="img/wave/3.svg" />
         </svg>
     </section>
     <script type="text/javascript" charset="utf-8">
