@@ -9,12 +9,11 @@
 6. [GreenSock Animation Platform](https://greensock.com/gsap/)
 7. [Google Fonts](https://fonts.google.com)
 
-## Referensi:
-1. [NGOBAR#27 - Membuat Website Portfolio dengan BOOTSTRAP 5](https://youtu.be/LkR-9Z1sle8)
-2. [NGOBAR#30 - Membuat Animasi pada Website (Menggunakan AOS dan GSAP)](https://youtu.be/t4TQGux6r7M)
-
 ## HERE WE GO!
-- [MY WEBSITE (galihpujiirianto.vercel.app)](https://galihpujiirianto.vercel.app)
-- [MY WEBSITE (galihpujiirianto.github.io)](https://galihpujiirianto.github.io/galihpujiirianto)
-- [MY WEBSITE (galihpujiirianto.herokuapp.com)](https://galihpujiirianto.herokuapp.com)
-- [TELEGRAM BOT (Contact Me!)](http://t.me/galihcontactbot)
+- MY WEBSITE
+   - [galihpujiirianto.vercel.app](https://galihpujiirianto.vercel.app)
+   - [galihpujiirianto.github.io](https://galihpujiirianto.github.io/galihpujiirianto)
+   - [galihpujiirianto.herokuapp.com](https://galihpujiirianto.herokuapp.com)
+- CONTACT SECTION
+   - [Telegram Bot](http://t.me/galihcontactbot)
+   - w/ Telegram USER_ID = `1708159796`
