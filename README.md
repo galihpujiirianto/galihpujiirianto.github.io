@@ -24,6 +24,7 @@ Hai, perkenalkan namaku Galih Puji Irianto. Biasa dipanggil Galih. Bertempat tin
 
 #### Bahasa yang sedang dipelajari:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### OS & Aplikasi yang digunakan sehari-hari:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -44,6 +45,7 @@ Hai, perkenalkan namaku Galih Puji Irianto. Biasa dipanggil Galih. Bertempat tin
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
@@ -55,7 +57,7 @@ Hai, perkenalkan namaku Galih Puji Irianto. Biasa dipanggil Galih. Bertempat tin
 
 </details>
 
-<h4>Sosial Media</h4>
+### Sosial Media
 <a href="https://galihpujiirianto.vercel.app"><img alt="galihpujiirianto.vercel.app" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 <a href="https://t.me/glixyr"><img alt="Telegram/glixyr" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
 <a href="https://twitter.com/glixyr"><img alt="Twitter/@glixyr" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg"></a>
