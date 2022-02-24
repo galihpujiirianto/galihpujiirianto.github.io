@@ -57,7 +57,7 @@ Hai, perkenalkan namaku Galih Puji Irianto. Biasa dipanggil Galih. Bertempat tin
 
 </details>
 
-### Sosial Media
+#### Sosial Media
 <a href="https://galihpujiirianto.vercel.app"><img alt="galihpujiirianto.vercel.app" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 <a href="https://t.me/glixyr"><img alt="Telegram/glixyr" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
 <a href="https://twitter.com/glixyr"><img alt="Twitter/@glixyr" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg"></a>
