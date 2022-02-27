@@ -1,7 +1,6 @@
 # Hai, aku Galih!
 
 ![Header](https://telegra.ph//file/e205a797b4599686909e2.jpg)
-
 Manusia biasa. Sedang mempelajari bagaimana cara menghargai hidup.
 
 Hai, perkenalkan namaku Galih Puji Irianto. Biasa dipanggil Galih. Bertempat tinggal di Grobogan, Jawa Tengah. Laki-laki, berumur 14 tahun.
