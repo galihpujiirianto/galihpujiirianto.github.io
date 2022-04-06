@@ -6,8 +6,6 @@ Hai, perkenalkan namaku Galih Puji Irianto. Biasa dipanggil Galih. Bertempat tin
 Saat ini sedang bersekolah di Sekolah Menengah Pertama (SMP) Negeri 1 Gubug, di kelas VIII-I. Hobiku bersepeda, berjalan-jalan, dan sudah lumayan menyukai programming.
 Selain itu, hobiku dirumah adalah Cuci Piring. Terima kasih, senang mengenal kalian!
 
-
-
 <details>
 <summary>My Stats!</summary>
 
@@ -61,6 +59,6 @@ Selain itu, hobiku dirumah adalah Cuci Piring. Terima kasih, senang mengenal kal
 </details>
 
 #### Sosial Media
-<a href="https://galihpujiirianto.vercel.app"><img alt="galihpujiirianto.vercel.app" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
-<a href="https://t.me/glixyr"><img alt="Telegram/glixyr" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
-<a href="https://twitter.com/glixyr"><img alt="Twitter/@glixyr" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg"></a>
+<a href="https://galihpujiirianto.herokuapp.com"><img alt="galihpujiirianto.herokuapp.com" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="https://t.me/+62881023534283"><img alt="Telegram/Galih" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
+<a href="https://twitter.com/puffypawsy"><img alt="Twitter/@puffypawsy" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg"></a>
