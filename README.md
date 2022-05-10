@@ -59,6 +59,6 @@ My hobbies are cycling, walking, and already quite fond of programming.
 </details>
 
 #### Social media
-<a href="https://galihpujiirianto.herokuapp.com"><img alt="galihpujiirianto.herokuapp.com" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="https://galihpujiirianto.vercel.app"><img alt="galihpujiirianto.vercel.app" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 <a href="https://t.me/graphiert"><img alt="Telegram/Galih." align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
 <a href="https://instagram.com/graphiert"><img alt="Instagram/graphiert" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg"></a>
