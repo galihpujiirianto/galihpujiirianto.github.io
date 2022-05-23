@@ -8,7 +8,7 @@
 
 ## HERE WE GO!
 - MY WEBSITE
-   - [galihpujiirianto.vercel.app](https://galihpujiirianto.vercel.app)
+   - [galihpujiirianto.site](https://galihpujiirianto.site)
    - [galihpujiirianto.github.io](https://galihpujiirianto.github.io/galihpujiirianto)
    - [galihpujiirianto.herokuapp.com (NOT UPDATED)](https://galihpujiirianto.herokuapp.com)
 - CONTACT SECTION
