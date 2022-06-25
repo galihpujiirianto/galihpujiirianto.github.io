@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Galih Puji Irianto</title>
   <!-- <script src="https://cdn.tailwindcss.com"></script> -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
 </head>
 <body class="bg-white text-slate-900 dark:bg-slate-600 dark:text-slate-200">
 
@@ -71,7 +71,7 @@ Section B: bg-slate-200 text-slate-900 dark:bg-slate-700 dark:text-slate-200
   <section class="min-h-lg mt-20 bg-white text-slate-900 dark:bg-slate-600 dark:text-slate-200">
     <div class="flex justify-center px-5 mb-5">
       <span class="block h-40 w-40">
-        <img class="mx-auto object-cover rounded-full" src="img/galih.jpg">    
+        <img class="mx-auto object-cover rounded-full" src="{{url_for('static/img', filename='galih.jpg')}}">    
       </span>
     </div>
     <div class="text-center p-3">
@@ -96,14 +96,14 @@ Section B: bg-slate-200 text-slate-900 dark:bg-slate-700 dark:text-slate-200
     <h3 class="mb-4 text-center text-2xl font-semibold">My Portfolio!</h3>
     <div class="flex justify-center flex-wrap md:mx-auto md:max-w-4xl">
       <div class="m-5 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-        <img class="rounded-t-lg" src="img/portfolio/1.png" alt="Galih Puji Irianto Landing Page">
+        <img class="rounded-t-lg" src="{{url_for('static/img/portfolio', filename='1.png')}}" alt="Galih Puji Irianto Landing Page">
         <div class="p-5">
           <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Galih Puji Irianto Landing Page</h5>
           <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Website used to introduce himself.</p>
         </div>
       </div>
       <div class="m-5 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-        <img class="rounded-t-lg" src="img/portfolio/2.png" alt="Galih Puji Irianto Landing Page">
+        <img class="rounded-t-lg" src="{{url_for('static/img/portfolio', filename='2.png')}}" alt="Anime Searcher">
         <div class="p-5">
           <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Anime Searcher</h5>
           <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">The website used to search anime, uses the Jikan API v4.</p>
@@ -180,6 +180,6 @@ Section B: bg-slate-200 text-slate-900 dark:bg-slate-700 dark:text-slate-200
   disable_waittime="true"
   form_worker_url="https://spring-lab-f19b.galihpujiirianto.workers.dev/"
 ></script>
-<script src="https://unpkg.com/flowbite@1.4.5/dist/flowbite.js"></script>
+<script src="{{url_for('static', filename='navbar.js')}}"></script>
 </body>
 </html>
