@@ -10,10 +10,10 @@ jobs:
     - name: Run ESLint
       run: eslint . --ext .js,.jsx,.ts,.tsx
     - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: 'pylint: auto fixes'
-          commit_options: '--no-verify --signoff'
-          repository: .
-          commit_user_name: galihpujiirianto
-          commit_user_email: galihpujiirianto@gmail.com
-          commit_author: galihpujiirianto <galihpujiirianto
+      with:
+        commit_message: 'eslint: auto fixes'
+        commit_options: '--no-verify --signoff'
+        repository: .
+        commit_user_name: galihpujiirianto
+        commit_user_email: galihpujiirianto@gmail.com
+        commit_author: galihpujiirianto <galihpujiirianto
