@@ -6,7 +6,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install modules
-      run: yarn add eslint
+      run: npm i -g eslint
     - name: Run ESLint
       run: eslint . --ext .js,.jsx,.ts,.tsx
     - uses: stefanzweifel/git-auto-commit-action@v4
