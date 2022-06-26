@@ -1,12 +1,14 @@
-name: CI
+name: ESLint
 on: push
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install modules
+    - name: Install ESLint
       run: npm i -g eslint
+    - name: Initialize ESLint
+      run: npm init @eslint/config
     - name: Run ESLint
       run: eslint . --ext .js,.jsx,.ts,.tsx
     - uses: stefanzweifel/git-auto-commit-action@v4
