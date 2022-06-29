@@ -1,3 +1,7 @@
+# Packager
 node_modules/
 package.json
 package-lock.json
+
+# IDE Configuration
+.vscode/
