@@ -8,17 +8,11 @@ My hobbies are cycling, walking, and already quite fond of programming.
 <details>
 <summary>About Programming</summary>
 
-<details>
-<summary>My Github Stats!</summary>
-
+### My Github Stats!
 [![Stats](https://github-readme-stats.vercel.app/api?username=galihpujiirianto&show_icons=true&theme=default)](https://github.com/galihpujiirianto/galihpujiirianto)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galihpujiirianto&layout=compact)](https://github.com/galihpujiirianto/galihpujiirianto)
 
-</details>
-
-<details>
-<summary>My programming tools:</summary>
-
+### My Programming knowledgements:
 #### Understandable language:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,8 +38,6 @@ My hobbies are cycling, walking, and already quite fond of programming.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
 
 </details>
 
