@@ -2,7 +2,7 @@
 
 ## Technology used:
 1. [HTML](https://www.w3schools.com/default.asp)
-2. [Tailwind CSS v3.0.24](https://tailwindcss.com/docs/installation)
+2. [Tailwind CSS v3.1.7](https://tailwindcss.com/docs/installation)
 3. [Javascript](https://www.w3schools.com/default.asp)
 4. [Contact Form](https://github.com/tuhinpal/Contact-Form)
 
