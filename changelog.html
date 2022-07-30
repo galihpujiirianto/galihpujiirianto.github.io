@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Galih's Changelog!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Quicksand:wght@300&display=swap" rel="stylesheet">
+    <style>
+        .title {
+            margin: 2.6cm 0 7px 0.8cm;
+            padding: 2px;
+            font-family: 'Quicksand', sans-serif;
+            font-weight: 300;
+            font-size: 24px;
+        }
+        section {margin-left: 0.8cm;}
+        .new, .old {font-family: 'IBM Plex Sans', sans-serif;}
+        h3 {margin-top: -16px;}
+        ul {margin-top: -14px;}
+        div {margin-top: 5px;}
+    </style>
+  </head>
+  <body>
+    <h1 class="title">Galih's Changelog!</h1>
+    <hr>
+    <section class="new"></section>
+    <br>
+    <section class="old"></section>
+  <script>
+      const getLatest = arr => {
+          if (arr.length == 0) {
+              return "<h1>Never released a version...</h1>";
+          } else {
+              ini = arr[0];
+              let inner = '';
+              inner += `<h1>Galih has been released to v${ini.version}!</h1>`;
+              inner += "<h3>What's new with this version?</h3>";
+              inner += "<ul>";
+              ini.features.forEach(el => inner += `<li>${el}</li>`);
+              inner += "</ul>";
+              return inner;
+          };
+      };
+      
+      const getOld = arr => {
+          arr.shift()
+          if (arr.length == 1 || arr.length == 0) {
+              return "<h1>No previous history...</h1>";
+          } else {
+              let inner = "<h2>Recent changes!</h2>";
+              arr.forEach(el => {
+                  inner += `<div><h1>v${el.version}</h1><ul>`;
+                  el.features.forEach(il => inner += `<li>${il}</li>`);
+                  inner += "</ul></div>";
+              });
+              return inner;
+          };
+      };
+      
+      const newEl = document.querySelector('.new');
+      const oldEl = document.querySelector('.old');
+      fetch("changelog.json")
+        .then(res => res.json())
+        .then(res => {
+            newEl.innerHTML = getLatest(res);
+            oldEl.innerHTML = getOld(res);
+        });
+  </script>
+  </body>
+</html>
