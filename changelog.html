@@ -68,7 +68,7 @@
       
       const newEl = document.querySelector('.new');
       const oldEl = document.querySelector('.old');
-      fetch("changelog.json")
+      fetch("https://raw.githubusercontent.com/galihpujiirianto/Code-Sample/notes/changelog.json")
         .then(res => res.json())
         .then(res => {
             newEl.innerHTML = getLatest(res);
