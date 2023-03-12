@@ -9,7 +9,7 @@
 ## HERE WE GO!
 - MY WEBSITE
    - [galihpujiirianto.site](https://galihpujiirianto.site)
-   - [galihpujiirianto.github.io](https://galihpujiirianto.github.io/galihpujiirianto)
+   - [graphiert.github.io](https://graphiert.github.io)
    - [galihpujiirianto.herokuapp.com (NOT UPDATED)](https://galihpujiirianto.herokuapp.com)
 - CONTACT SECTION
    - [Telegram Bot](http://t.me/galihcontactbot)
