@@ -9,8 +9,8 @@ My hobbies are cycling, walking, and already quite fond of programming.
 <summary>About Programming</summary>
 
 ### My Github Stats!
-[![Stats](https://github-readme-stats.vercel.app/api?username=galihpujiirianto&show_icons=true&theme=default)](https://github.com/galihpujiirianto/galihpujiirianto)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galihpujiirianto&layout=compact)](https://github.com/galihpujiirianto/galihpujiirianto)
+[![Stats](https://github-readme-stats.vercel.app/api?username=graphiert&show_icons=true&theme=default)](https://github.com/graphiert/graphiert)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graphiert&layout=compact)](https://github.com/graphiert/graphiert)
 
 ### My Programming knowledgements:
 #### Understandable language:
