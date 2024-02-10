@@ -69,13 +69,13 @@ My hobbies are cycling, walking, and already quite fond of programming.
 </details>
 
 <details>
-<summary>Being upset</summary>
+<summary>Listening now on Spotify</summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&redirect=true)
 
 </details>
 
 #### Social media
-<a href="https://galihpujiirianto.site"><img alt="galihpujiirianto.site" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="http://graphiert.blue"><img alt="graphiert.blue" align="left" height="26" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 <a href="https://t.me/graphiert"><img alt="Telegram/Galih." align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg"></a>
 <a href="https://instagram.com/graphiert"><img alt="Instagram/graphiert" align="left" height="26" width="26" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg"></a>
