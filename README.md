@@ -20,4 +20,4 @@ Galih.<br>he/him<br>17<br>Student
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🛌 Listening on Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=galihpujiirianto&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=galihpujiirianto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=3d87ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=galihpujiirianto&redirect=true)
